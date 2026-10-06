@@ -1,0 +1,6 @@
+{
+  "name": "Flag Battle",
+  "description": "An automatic continuous flag battle game suitable for video streams and unattended live streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
